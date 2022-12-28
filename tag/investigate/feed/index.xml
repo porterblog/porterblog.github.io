@@ -12,8 +12,8 @@
 
 <channel>
 	<title>investigate &#8211; Porter&#039;s Technological blog</title>
-	<atom:link href="https://https://porterblog.github.io/tag/investigate/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://porterblog.github.io/</link>
+	<atom:link href="https://https://cheerful-cannoli-1a6189.netlify.app/tag/investigate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://cheerful-cannoli-1a6189.netlify.app/</link>
 	<description>Welcome everyone, this is my blog website, which is mainly used for posting programming and sharing technological products that I used to code before. I hope everyone follows my posts and comment (and you can share them if you love my posts).</description>
 	<lastBuildDate>Tue, 13 Dec 2022 05:15:14 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://https://porterblog.github.io/wp-content/uploads/2022/12/cropped-cropped-po_cat-removebg-preview-32x32.png</url>
+	<url>https://https://cheerful-cannoli-1a6189.netlify.app/wp-content/uploads/2022/12/cropped-cropped-po_cat-removebg-preview-32x32.png</url>
 	<title>investigate &#8211; Porter&#039;s Technological blog</title>
-	<link>https://https://porterblog.github.io/</link>
+	<link>https://https://cheerful-cannoli-1a6189.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">213214373</site>	<item>
 		<title>Investigate practical hash functions</title>
-		<link>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/</link>
-					<comments>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/#respond</comments>
+		<link>https://https://cheerful-cannoli-1a6189.netlify.app/2022/12/13/amdev/investigate-practical-hash-functions/</link>
+					<comments>https://https://cheerful-cannoli-1a6189.netlify.app/2022/12/13/amdev/investigate-practical-hash-functions/#respond</comments>
 		
 		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 03:04:31 +0000</pubDate>
@@ -42,10 +42,10 @@
 		<category><![CDATA[investigate]]></category>
 		<category><![CDATA[table]]></category>
 		<category><![CDATA[theory]]></category>
-		<guid isPermaLink="false">https://https://porterblog.github.io/?p=110</guid>
+		<guid isPermaLink="false">https://https://cheerful-cannoli-1a6189.netlify.app/?p=110</guid>
 
 					<description><![CDATA[<p>This will show you how to understand what the hash function is and how to investigate it in different ways. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+<p>The post <a rel="nofollow" href="https://https://cheerful-cannoli-1a6189.netlify.app/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://cheerful-cannoli-1a6189.netlify.app/">Porter&#039;s Technological blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div id="bsf_rt_marker">
 <p>This will show you how to understand what the hash function is and how to investigate it in different ways.</p>
@@ -105,10 +105,10 @@
 
 <li><a href="https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=The%20most%20common%20hash%20functions,(SHA)%201%20and%202." rel="nofollow noopener" target="_blank">Hashing Algorithm &#8211; an overview | ScienceDirect Topics</a></li>
 </ul>
-</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+</div><p>The post <a rel="nofollow" href="https://https://cheerful-cannoli-1a6189.netlify.app/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://cheerful-cannoli-1a6189.netlify.app/">Porter&#039;s Technological blog</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://cheerful-cannoli-1a6189.netlify.app/2022/12/13/amdev/investigate-practical-hash-functions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
