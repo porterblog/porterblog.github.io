@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>key feature &#8211; My technological blog</title>
+	<atom:link href="http://cheerful-cannoli-1a6189.netlify.app/tag/key-feature/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheerful-cannoli-1a6189.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2022 03:27:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Research Internet Key Exchange (IKE) as used in IPSec and note its purpose and key features.</title>
+		<link>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/</link>
+					<comments>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 03:27:13 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[key feature]]></category>
+		<category><![CDATA[purpose]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://thephongblog.ml/?p=112</guid>
+
+					<description><![CDATA[This post is giving you the details of research, purpose, and key features in Internet Key exchange (IKE). Overview Key features Purpose References]]></description>
+										<content:encoded><![CDATA[
+<p>This post is giving you the details of research, purpose, and key features in Internet Key exchange (IKE). </p>
+
+
+
+<h1>Overview</h1>
+
+
+
+<ul>
+<li>In computing,&nbsp;<strong>Internet Key Exchange</strong>&nbsp;(<strong>IKE</strong>, sometimes&nbsp;<strong>IKEv1</strong>&nbsp;or&nbsp;<strong>IKEv2</strong>, depending on version) is the protocol used to set up a&nbsp;security association&nbsp;(SA) in the&nbsp;IPsec&nbsp;protocol suite.</li>
+</ul>
+
+
+
+<h2>Key features</h2>
+
+
+
+<ul>
+<li> Auto create a new key</li>
+
+
+
+<li>Protecting on attacks which block the circuit like DDos (Denial-of-service attack)</li>
+
+
+
+<li>Using digital key</li>
+
+
+
+<li>Using the same key</li>
+
+
+
+<li>Providing means for both partners to agree on protocols, algorithms, and keys to use.</li>
+
+
+
+<li>Make sure the key exchange goes to the right user</li>
+
+
+
+<li>Managing keys after being accpeted</li>
+
+
+
+<li>Allow dynamic endorsement between peer objects.</li>
+</ul>
+
+
+
+<h2>Purpose</h2>
+
+
+
+<ul>
+<li>Internet key exchanged uses to set up a secure, authenticated communications channel between two devices.</li>
+
+
+
+<li>During key exchange, IKE uses a symmetric encryption algorithm, these keys will be changed over time -&gt; limit the cracking status of attackers</li>
+</ul>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li>Introduction to IKE: <a href="https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-ike-basics.html">Internet Key Exchange | Junos OS | Juniper Networks</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Internet_Key_Exchange">Internet Key Exchange &#8211; Wikipedia</a></li>
+
+
+
+<li><a href="https://vnpro.vn/thu-vien/giao-thuc-internet-key-exchange-ike-trongvpn-2417.html">Giao thức Internet Key Exchange (IKE) trong VPN &#8211; (vnpro.vn)</a> &#8211; Vietnamese website</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

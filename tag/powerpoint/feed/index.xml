@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>powerpoint &#8211; My technological blog</title>
+	<atom:link href="http://cheerful-cannoli-1a6189.netlify.app/tag/powerpoint/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheerful-cannoli-1a6189.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2022 05:00:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Research the SSL handshake in detail and make notes on the details of the messages passed and their sequence</title>
+		<link>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/</link>
+					<comments>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 05:00:44 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[powerpoint]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[SSL handshake]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://thephongblog.ml/?p=119</guid>
+
+					<description><![CDATA[I have a PowerPoint slide, which will be presented all about SSL handshake. Click this link if you cannot watch]]></description>
+										<content:encoded><![CDATA[
+<p>I have a PowerPoint slide, which will be presented all about SSL handshake. </p>
+
+
+
+
+
+<p>Click <a href="https://docs.google.com/presentation/d/1r8mFEUp4WuoBrQtjg3ecJT0fUE0US3mtvhdjBb2_PyY/edit#slide=id.g1b5f9a93f29_0_148" target="_blank" rel="noreferrer noopener nofollow">this link</a> if you cannot watch</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

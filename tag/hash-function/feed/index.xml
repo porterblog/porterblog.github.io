@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hash function &#8211; My technological blog</title>
+	<atom:link href="http://cheerful-cannoli-1a6189.netlify.app/tag/hash-function/feed/" rel="self" type="application/rss+xml" />
+	<link>http://cheerful-cannoli-1a6189.netlify.app</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2022 03:04:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Investigate practical hash functions</title>
+		<link>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/investigate-practical-hash-functions/</link>
+					<comments>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/investigate-practical-hash-functions/#disqus_thread</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 03:04:31 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[hash function]]></category>
+		<category><![CDATA[investigate]]></category>
+		<category><![CDATA[table]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://thephongblog.ml/?p=110</guid>
+
+					<description><![CDATA[This will show you how to understand what the hash function is and how to investigate it in different ways. What are the most popular hash functions? Hash functions Provide a brief overview of each one Example How big a hash value do they produce? (Digest size /length) Message Digest&#160;5 (MD5) The&#160;MD5, defined in&#160;RFC 1321, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This will show you how to understand what the hash function is and how to investigate it in different ways.</p>
+
+
+
+<h1>What are the most popular hash functions?</h1>
+
+
+
+<ul>
+<li>The most common&nbsp;hash functions&nbsp;used in&nbsp;digital forensics&nbsp;are&nbsp;Message Digest&nbsp;5 (MD5), and Secure Hashing Algorithm (SHA) 1 and 2.</li>
+</ul>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Hash functions</th><th>Provide a brief overview of each one</th><th>Example</th><th>How big a hash value do they produce? (Digest size /length)</th></tr></thead><tbody><tr><td>Message Digest&nbsp;5 (MD5)</td><td>The&nbsp;MD5, defined in&nbsp;RFC 1321, is a <strong>hash algorithm</strong> to turn inputs into a <strong>fixed 128-bit (16 bytes)</strong> length of the hash value. <br><br>MD5 is <strong>not collision-resistant</strong> – <strong>Two different inputs</strong> may producing the <strong>same hash value</strong><br></td><td>Text: goodbyeMyfriend888<br><br>Hash message: 0ea6c58190e34e9a23ccb0de1df8a77d</td><td>128 bits</td></tr><tr><td>Hashing Algorithm (SHA) &#8211; 1</td><td>a <strong>cryptographic hash function</strong> which takes an input and produces a <strong>160-bit (20-byte) hash value</strong>. This hash value is known as a <strong>message digest</strong>. This message digest is usually then rendered as a <strong>hexadecimal number</strong> which is <strong>40 digits long</strong>.</td><td>Phrase: Go Steelers!<br><br>Hash message: c924 4cac 47b3 4335 5aed 06f3 cc85 ea82 885f 9f3e<br></td><td>160 bits</td></tr><tr><td>Hashing Algorithm (SHA) &#8211; 2</td><td>They are built using the <strong>Merkle–Damgård construction</strong>, from a <strong>one-way compression function</strong> itself built using the <strong>Davies–Meyer structure</strong> from a <strong>specialized block cipher</strong>.<br><br>It&#8217;s a <strong>family of functions</strong> with different output size</td><td><strong>SHA-256:</strong> <br>Text: helloAbcdefg17<br><br>Hash message: 7fdbb09efef10cc600b05f87a838919d73e5ffcabee3525e60c57c0258478b33</td><td>224, 256(SHA-256), 384, or 512 bits</td></tr></tbody></table><figcaption class="wp-element-caption">The table can show you details about 3 different popular hash functions.</figcaption></figure>
+
+
+
+<ul>
+<li></li>
+</ul>
+
+
+
+<ul>
+<li></li>
+</ul>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li>Wikipedia (MD5, SHA-1,2)</li>
+
+
+
+<li><a href="https://stackoverflow.com/questions/16393650/hash-functions-which-are-used-and-more-popular">security &#8211; Hash Functions which are used and more popular &#8211; Stack Overflow</a></li>
+
+
+
+<li><a href="https://mkyong.com/java/java-md5-hashing-example/">Java MD5 Hashing Example &#8211; Mkyong.com</a></li>
+
+
+
+<li><a href="https://www.geeksforgeeks.org/sha-1-hash-in-java/">SHA-1 Hash &#8211; GeeksforGeeks</a></li>
+
+
+
+<li><a href="https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/">What Is SHA-256? | Boot.dev</a></li>
+
+
+
+<li><a href="https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=The%20most%20common%20hash%20functions,(SHA)%201%20and%202.">Hashing Algorithm &#8211; an overview | ScienceDirect Topics</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://cheerful-cannoli-1a6189.netlify.app/2022/12/amdev/investigate-practical-hash-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
