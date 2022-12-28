@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>NCC &#8211; Porter&#039;s Technological blog</title>
+	<atom:link href="https://https://porterblog.github.io/category/ncc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://porterblog.github.io/</link>
+	<description>Welcome everyone, this is my blog website, which is mainly used for posting programming and sharing technological products that I used to code before. I hope everyone follows my posts and comment (and you can share them if you love my posts).</description>
+	<lastBuildDate>Tue, 13 Dec 2022 05:15:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://https://porterblog.github.io/wp-content/uploads/2022/12/cropped-cropped-po_cat-removebg-preview-32x32.png</url>
+	<title>NCC &#8211; Porter&#039;s Technological blog</title>
+	<link>https://https://porterblog.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">213214373</site>	<item>
+		<title>Research the SSL handshake in detail and make notes on the details of the messages passed and their sequence</title>
+		<link>https://https://porterblog.github.io/2022/12/13/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/</link>
+					<comments>https://https://porterblog.github.io/2022/12/13/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/#comments</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 05:00:44 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[powerpoint]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[SSL handshake]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://https://porterblog.github.io/?p=119</guid>
+
+					<description><![CDATA[<p>I have a PowerPoint slide, which will be presented all about SSL handshake. Click this link if you cannot watch</p>
+<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/">Research the SSL handshake in detail and make notes on the details of the messages passed and their sequence</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker">
+<p>I have a PowerPoint slide, which will be presented all about SSL handshake. </p>
+
+
+
+
+
+<p>Click <a href="https://docs.google.com/presentation/d/1r8mFEUp4WuoBrQtjg3ecJT0fUE0US3mtvhdjBb2_PyY/edit#slide=id.g1b5f9a93f29_0_148" target="_blank" rel="noreferrer noopener nofollow">this link</a> if you cannot watch</p>
+</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/">Research the SSL handshake in detail and make notes on the details of the messages passed and their sequence</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://porterblog.github.io/2022/12/13/amdev/research-the-ssl-handshake-in-detail-and-make-notes-on-the-details-of-the-messages-passed-and-their-sequence/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">119</post-id>	</item>
+		<item>
+		<title>Research a commercial provider of digital signatures available</title>
+		<link>https://https://porterblog.github.io/2022/12/13/amdev/research-a-commercial-provider-of-digital-signatures-available/</link>
+					<comments>https://https://porterblog.github.io/2022/12/13/amdev/research-a-commercial-provider-of-digital-signatures-available/#comments</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 03:48:32 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[commercial provider]]></category>
+		<category><![CDATA[digital signature]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[table]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://https://porterblog.github.io/?p=117</guid>
+
+					<description><![CDATA[<p>I will research VNPT &#8211; one of the famous commercial providers of digital signatures in Vietnam The file types that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-a-commercial-provider-of-digital-signatures-available/">Research a commercial provider of digital signatures available</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker">
+<p>I will research VNPT &#8211; one of the famous commercial providers of digital signatures in Vietnam</p>
+
+
+
+<h1>The file types that can be signed</h1>
+
+
+
+<ul>
+<li>.docx(word), .pdf, .xls(excel), .pptx(Powerpoint)</li>
+
+
+
+<li>mostly file types (except .docx, .pptx, .xls) need to convert to .pdf to sign.</li>
+</ul>
+
+
+
+<h1>Price </h1>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>VNPT -CA service packages</th><th class="has-text-align-center" data-align="center">Registration deadline(months)</th><th class="has-text-align-center" data-align="center">Total price package</th></tr></thead><tbody><tr><td>Organization ID Standard 1024 bit</td><td class="has-text-align-center" data-align="center">12&nbsp;</td><td class="has-text-align-center" data-align="center">1.273.000</td></tr><tr><td>Organization ID Standard 1024 bit</td><td class="has-text-align-center" data-align="center">24</td><td class="has-text-align-center" data-align="center">2.190.000</td></tr><tr><td>Organization ID Standard 1024 bit</td><td class="has-text-align-center" data-align="center">36</td><td class="has-text-align-center" data-align="center">3.112.000</td></tr></tbody></table><figcaption class="wp-element-caption">digital signature price list</figcaption></figure>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li><a href="https://vnpthcmc.com/blog/huong-dan-ky-so-smart-ca-vnpt/" rel="nofollow noopener" target="_blank">Hướng Dẫn Ký Số SmartCA VNPT &#8211; VNPT Business (vnpthcmc.com)</a> Vietnamese website</li>
+
+
+
+<li><a href="https://vnpteinvoice.vn/chu-ky-so-/bang-gia-chu-ky-so/123.html" rel="nofollow noopener" target="_blank">Bảng giá chữ ký số VNPT-CA (vnpteinvoice.vn)</a> &#8211; There will be more price for organization and individual.</li>
+</ul>
+</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-a-commercial-provider-of-digital-signatures-available/">Research a commercial provider of digital signatures available</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://porterblog.github.io/2022/12/13/amdev/research-a-commercial-provider-of-digital-signatures-available/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
+		<item>
+		<title>Research Internet Key Exchange (IKE) as used in IPSec and note its purpose and key features.</title>
+		<link>https://https://porterblog.github.io/2022/12/13/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/</link>
+					<comments>https://https://porterblog.github.io/2022/12/13/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/#respond</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 03:27:13 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[key feature]]></category>
+		<category><![CDATA[purpose]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://https://porterblog.github.io/?p=112</guid>
+
+					<description><![CDATA[<p>This post is giving you the details of research, purpose, and key features in Internet Key exchange (IKE). Overview Key [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/">Research Internet Key Exchange (IKE) as used in IPSec and note its purpose and key features.</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker">
+<p>This post is giving you the details of research, purpose, and key features in Internet Key exchange (IKE). </p>
+
+
+
+<h1>Overview</h1>
+
+
+
+<ul>
+<li>In computing,&nbsp;<strong>Internet Key Exchange</strong>&nbsp;(<strong>IKE</strong>, sometimes&nbsp;<strong>IKEv1</strong>&nbsp;or&nbsp;<strong>IKEv2</strong>, depending on version) is the protocol used to set up a&nbsp;security association&nbsp;(SA) in the&nbsp;IPsec&nbsp;protocol suite.</li>
+</ul>
+
+
+
+<h2>Key features</h2>
+
+
+
+<ul>
+<li> Auto create a new key</li>
+
+
+
+<li>Protecting on attacks which block the circuit like DDos (Denial-of-service attack)</li>
+
+
+
+<li>Using digital key</li>
+
+
+
+<li>Using the same key</li>
+
+
+
+<li>Providing means for both partners to agree on protocols, algorithms, and keys to use.</li>
+
+
+
+<li>Make sure the key exchange goes to the right user</li>
+
+
+
+<li>Managing keys after being accpeted</li>
+
+
+
+<li>Allow dynamic endorsement between peer objects.</li>
+</ul>
+
+
+
+<h2>Purpose</h2>
+
+
+
+<ul>
+<li>Internet key exchanged uses to set up a secure, authenticated communications channel between two devices.</li>
+
+
+
+<li>During key exchange, IKE uses a symmetric encryption algorithm, these keys will be changed over time -&gt; limit the cracking status of attackers</li>
+</ul>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li>Introduction to IKE: <a href="https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-ike-basics.html" rel="nofollow noopener" target="_blank">Internet Key Exchange | Junos OS | Juniper Networks</a></li>
+
+
+
+<li><a href="https://en.wikipedia.org/wiki/Internet_Key_Exchange" rel="nofollow noopener" target="_blank">Internet Key Exchange &#8211; Wikipedia</a></li>
+
+
+
+<li><a href="https://vnpro.vn/thu-vien/giao-thuc-internet-key-exchange-ike-trongvpn-2417.html" rel="nofollow noopener" target="_blank">Giao thức Internet Key Exchange (IKE) trong VPN &#8211; (vnpro.vn)</a> &#8211; Vietnamese website</li>
+</ul>
+</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/">Research Internet Key Exchange (IKE) as used in IPSec and note its purpose and key features.</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://porterblog.github.io/2022/12/13/amdev/research-internet-key-exchange-ike-as-used-in-ipsec-and-note-its-purpose-and-key-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
+		<item>
+		<title>Investigate practical hash functions</title>
+		<link>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/</link>
+					<comments>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/#respond</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 03:04:31 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[hash function]]></category>
+		<category><![CDATA[investigate]]></category>
+		<category><![CDATA[table]]></category>
+		<category><![CDATA[theory]]></category>
+		<guid isPermaLink="false">https://https://porterblog.github.io/?p=110</guid>
+
+					<description><![CDATA[<p>This will show you how to understand what the hash function is and how to investigate it in different ways. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker">
+<p>This will show you how to understand what the hash function is and how to investigate it in different ways.</p>
+
+
+
+<h1>What are the most popular hash functions?</h1>
+
+
+
+<ul>
+<li>The most common&nbsp;hash functions&nbsp;used in&nbsp;digital forensics&nbsp;are&nbsp;Message Digest&nbsp;5 (MD5), and Secure Hashing Algorithm (SHA) 1 and 2.</li>
+</ul>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Hash functions</th><th>Provide a brief overview of each one</th><th>Example</th><th>How big a hash value do they produce? (Digest size /length)</th></tr></thead><tbody><tr><td>Message Digest&nbsp;5 (MD5)</td><td>The&nbsp;MD5, defined in&nbsp;RFC 1321, is a <strong>hash algorithm</strong> to turn inputs into a <strong>fixed 128-bit (16 bytes)</strong> length of the hash value. <br><br>MD5 is <strong>not collision-resistant</strong> – <strong>Two different inputs</strong> may producing the <strong>same hash value</strong><br></td><td>Text: goodbyeMyfriend888<br><br>Hash message: 0ea6c58190e34e9a23ccb0de1df8a77d</td><td>128 bits</td></tr><tr><td>Hashing Algorithm (SHA) &#8211; 1</td><td>a <strong>cryptographic hash function</strong> which takes an input and produces a <strong>160-bit (20-byte) hash value</strong>. This hash value is known as a <strong>message digest</strong>. This message digest is usually then rendered as a <strong>hexadecimal number</strong> which is <strong>40 digits long</strong>.</td><td>Phrase: Go Steelers!<br><br>Hash message: c924 4cac 47b3 4335 5aed 06f3 cc85 ea82 885f 9f3e<br></td><td>160 bits</td></tr><tr><td>Hashing Algorithm (SHA) &#8211; 2</td><td>They are built using the <strong>Merkle–Damgård construction</strong>, from a <strong>one-way compression function</strong> itself built using the <strong>Davies–Meyer structure</strong> from a <strong>specialized block cipher</strong>.<br><br>It&#8217;s a <strong>family of functions</strong> with different output size</td><td><strong>SHA-256:</strong> <br>Text: helloAbcdefg17<br><br>Hash message: 7fdbb09efef10cc600b05f87a838919d73e5ffcabee3525e60c57c0258478b33</td><td>224, 256(SHA-256), 384, or 512 bits</td></tr></tbody></table><figcaption class="wp-element-caption">The table can show you details about 3 different popular hash functions.</figcaption></figure>
+
+
+
+<ul>
+<li></li>
+</ul>
+
+
+
+<ul>
+<li></li>
+</ul>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li>Wikipedia (MD5, SHA-1,2)</li>
+
+
+
+<li><a href="https://stackoverflow.com/questions/16393650/hash-functions-which-are-used-and-more-popular" rel="nofollow noopener" target="_blank">security &#8211; Hash Functions which are used and more popular &#8211; Stack Overflow</a></li>
+
+
+
+<li><a href="https://mkyong.com/java/java-md5-hashing-example/" rel="nofollow noopener" target="_blank">Java MD5 Hashing Example &#8211; Mkyong.com</a></li>
+
+
+
+<li><a href="https://www.geeksforgeeks.org/sha-1-hash-in-java/" rel="nofollow noopener" target="_blank">SHA-1 Hash &#8211; GeeksforGeeks</a></li>
+
+
+
+<li><a href="https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/" rel="nofollow noopener" target="_blank">What Is SHA-256? | Boot.dev</a></li>
+
+
+
+<li><a href="https://www.sciencedirect.com/topics/computer-science/hashing-algorithm#:~:text=The%20most%20common%20hash%20functions,(SHA)%201%20and%202." rel="nofollow noopener" target="_blank">Hashing Algorithm &#8211; an overview | ScienceDirect Topics</a></li>
+</ul>
+</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/">Investigate practical hash functions</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://porterblog.github.io/2022/12/13/amdev/investigate-practical-hash-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">110</post-id>	</item>
+		<item>
+		<title>Process of encrypting and decrypting</title>
+		<link>https://https://porterblog.github.io/2022/12/09/amdev/process-of-encrypting-and-decrypting/</link>
+					<comments>https://https://porterblog.github.io/2022/12/09/amdev/process-of-encrypting-and-decrypting/#respond</comments>
+		
+		<dc:creator><![CDATA[Annoymous Dev]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2022 04:49:34 +0000</pubDate>
+				<category><![CDATA[Network Security and Cryptography - NCC]]></category>
+		<category><![CDATA[decrypt]]></category>
+		<category><![CDATA[encrypt]]></category>
+		<category><![CDATA[message]]></category>
+		<category><![CDATA[practice]]></category>
+		<category><![CDATA[prime number]]></category>
+		<category><![CDATA[public key]]></category>
+		<category><![CDATA[secret key]]></category>
+		<guid isPermaLink="false">https://https://porterblog.github.io/?p=56</guid>
+
+					<description><![CDATA[<p>Some practices of encrypting and decrypting, including numbers and characters. Exercise 1 &#8211; RSA cryptosystem: The role of 2 people [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/09/amdev/process-of-encrypting-and-decrypting/">Process of encrypting and decrypting</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker">
+<p>Some practices of encrypting and decrypting, including numbers and characters.</p>
+
+
+
+<h1><b>Exercise 1 &#8211; RSA cryptosystem:</b></h1>
+
+
+
+<p>The role of 2 people tries to encrypt and decrypt the message the message from public and private key.</p>
+
+
+
+<ul>
+<li><h3>Person 1 generates the public key and private key using different <a href="https://www.techtarget.com/whatis/definition/prime-number" target="_blank" rel="noopener nofollow">prime numbers</a></h3>
+<ul>
+<li>Generating public and private keys</li>
+
+
+
+<li>Pick two prime numbers, like <em><strong>p</strong></em> = 3 and <em><strong>q</strong></em> = 13</li>
+
+
+
+<li>Calculate <em><strong>n</strong></em> = <em><strong>p</strong></em> * <em><strong>q</strong></em> = 3 * 13 = 39</li>
+
+
+
+<li>Calculate <em><strong>z</strong></em> = (<em><strong>p</strong></em> &#8211; 1) * (<em><strong>q</strong></em> &#8211; 1) = (3-1) * (13 -1) = 2 * 12 = 24</li>
+
+
+
+<li>Choose a prime number <em><strong>k</strong></em>, such that <em><strong>k</strong></em> is co-prime to <strong><em>z</em></strong>, i.e&#8230;, <strong><em>z</em></strong> is not divisible by <strong><em>k</em></strong>
+<ul>
+<li>We have several choices for <em><strong>k</strong></em>: 5, 7, 11, 13, 17, 19, 23 (we cannot use 3, because 24 is divisible by that numbers). =&gt; Let&#8217;s pick <strong><em>k</em></strong> = 5</li>
+
+
+
+<li>That means the number <em><strong>n</strong></em> = 39 and <em><strong>k</strong></em> = 5 become <strong>the public key</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+
+
+
+<li><h3>Person 1 passes the public key to Person 2</h3>
+<ul>
+<li>give Person 2: <em><strong>n</strong></em> = 39 and <em><strong>k</strong></em> = 5 </li>
+</ul>
+</li>
+
+
+
+<li><h3>Person 2 chooses a number between 1 and 50 as the message: Ex. Person 2 chooses 20 as the message </h3>
+<ul>
+<li>-&gt;Plain message: P = 20</li>
+</ul>
+</li>
+
+
+
+<li><h3>Person 2 encrypts the message and passes the encrypted message to Person 1</h3>
+<ul>
+<li>Calculate the private key. Here is how:
+<ul>
+<li><em><strong>k</strong></em> * <em><strong>j</strong></em> = 1 (mod <em><strong>z</strong></em>) &#8211;&gt; 5 * <em><strong>j</strong></em> = 1 (mod 24) &#8211;&gt; (5 *&nbsp;<strong>j</strong>) / 24 =? (with the remainder of 1 &#8211; are only interested in the remainder)</li>
+
+
+
+<li>We can easily conclude that 25/24 = 1 (with the remainder of 1), so that means j = 5, which is our secret key. We <strong>MUST NOT</strong> give this key away!</li>
+
+
+
+<li>Now, we can begin our message transmission from our browser to the server. First, the browser requests the public key from the server, which was the server sends. It sends n = 39 and k = 5 back to the browser.</li>
+
+
+
+<li>Now, we assume that the browser has a plain message P = 20, and it wants to encrypt it before sending it to the server.</li>
+</ul>
+</li>
+
+
+
+<li>Let&#8217;s Encrypting the message
+<ul>
+<li>Here is the formula encryption math that browser executes: <strong>P</strong> ^ <strong>k</strong> = <strong>E</strong> (mod <strong>n</strong>)</li>
+
+
+
+<li>20 ^ 5 = <strong>E</strong> (mod 39) &#8211;&gt; <strong>E</strong> = (20 ^ 5) / 39 = 3200000/39 = 11</li>
+</ul>
+</li>
+</ul>
+</li>
+
+
+
+<li><h3>Person 1 decrypts the message</h3>
+<ul>
+<li>here is the decryption math the server executes to recover the original plain text message which the browser started with: E ^ j = P (mod n)</li>
+
+
+
+<li>Plugging in the values
+<ul>
+<li>11 ^ 5 = P (mod 39)</li>
+
+
+
+<li>(11 ^ 5) / 39 = 161051 / 39 = 4129.51282051&#8230;</li>
+
+
+
+<li>4129 * 39 = 161031&nbsp;</li>
+
+
+
+<li>P = 161051 &#8211; 161031 = 20&nbsp;</li>
+
+
+
+<li>That means <strong>P</strong> = 20 is the exactly plain text message that the browser started with!</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h2>Notes:</h2>
+
+
+
+<p>&#8216;^&#8217; means &#8220;to the power of)</p>
+
+
+
+<p>P is the plain message we want to encrypt</p>
+
+
+
+<p>n and k are server&#8217;s public key</p>
+
+
+
+<p>E is our encrypted message we want to generate</p>
+
+
+
+<p>P: plain message</p>
+
+
+
+<p>j: the server&#8217;s secret key</p>
+
+
+
+<h1><b>Exercise 2 &#8211; transposition cipher:</b></h1>
+
+
+
+<p>See if you can decrypt the message below. It uses a simple substitution cipher where the letters of the alphabet have been shifted a number of places in a similar way to this:</p>
+
+
+
+<p>Alphabet: A B C &#8230; Z</p>
+
+
+
+<p>Cipher: B C &#8230; A</p>
+
+
+
+<p>The message is</p>
+
+
+
+<p>UIF NFTTBHF JT OPX EFDSZQUFE CZ QPSUFS</p>
+
+
+
+<p>Answer:</p>
+
+
+
+<p>THE MESSAGE IS NOW DECRYPTED BY PORTER.</p>
+
+
+
+<h1>References</h1>
+
+
+
+<ul>
+<li>NCC Education level 5 &#8211; computing</li>
+</ul>
+</div><p>The post <a rel="nofollow" href="https://https://porterblog.github.io/2022/12/09/amdev/process-of-encrypting-and-decrypting/">Process of encrypting and decrypting</a> appeared first on <a rel="nofollow" href="https://https://porterblog.github.io/">Porter&#039;s Technological blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://porterblog.github.io/2022/12/09/amdev/process-of-encrypting-and-decrypting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">56</post-id>	</item>
+	</channel>
+</rss>
