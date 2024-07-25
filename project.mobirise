@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Phong Tran's Portfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -54,20 +54,22 @@
     "versionPublish": "5.9.18",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": false,
-    "mbrsiteDomain": "ktjot1jvkl",
-    "usedWebp": false,
+    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2024-07-12-at-12.38.53am-128x148_1.png",
+    "mbrsiteDomain": "jifglvofet",
+    "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://portfolio.phonghaitran.com",
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HLDN38SZBL\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HLDN38SZBL');\n</script>",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
